@@ -46,6 +46,7 @@ section:last-child {
 .section-title {
   font-weight: bold;
   font-size: 20px;
+  display: inline;
 }
 
 .name-title {
@@ -61,30 +62,31 @@ section:last-child {
 }
 
 .employment:last-child {
- border-bottom: none;
+  border-bottom: none;
 }
 
 .employment-title-container {
- justify-content: space-between;
- margin-bottom: 20px;
- font-size: 18px;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  font-size: 18px;
 }
 
 .employer {
- font-weight: bold;
- line-height: 1.5;
+  font-weight: bold;
+  line-height: 1.5;
 }
 
 
 .date {
- display: inline;
+  display: inline;
 }
 
 .employment-title {
- font-style: italic;
+  font-style: italic;
 }
 
 h4 {
- line-height: 1;
- text-decoration: underline;
+  line-height: 1;
+  text-decoration: underline;
+  color: mediumorchid;
 }
