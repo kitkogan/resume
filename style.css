@@ -13,8 +13,11 @@ body {
 }
 
 img {
-  max-width:25%;
-  height:auto;
+  max-width: 25%;
+  height: auto;
+  min-width: 25%;
+  height: auto;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 p {
@@ -32,7 +35,7 @@ p {
 section {
   display: grid;
   grid-template-columns: 1fr 4fr;
-  grid-gap: 30px;
-  padding: 30px;
-  border-bottom: 4px solid pink;
+  grid-gap: 25px;
+  padding: 25x;
+  border-bottom: 2px solid pink;
 }
