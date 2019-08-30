@@ -15,5 +15,9 @@ img {
 }
 
 p {
-color: purple;
+  color: purple;
+}
+
+.container {
+  max-width: 960px;
 }
