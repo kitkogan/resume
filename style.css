@@ -116,6 +116,11 @@ h4 {
   font-size: 18px;
 }
 
+.school {
+  font-weight: bold;
+  line-height: 1.5;
+}
+
 .interests-container {
   justify-content: space-between;
   margin-bottom: 20px;
