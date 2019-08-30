@@ -20,6 +20,8 @@ img {
 
 p {
   color: purple;
+  display: flex;
+  justify-content: space-between;
 }
 
 .container {
