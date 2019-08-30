@@ -81,3 +81,7 @@ section:last-child {
  display: inline;
 }
 
+.employment-title {
+  font-weight: italic;
+}
+
