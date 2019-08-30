@@ -37,3 +37,7 @@ section {
   padding: 25px;
   border-bottom: 2px solid pink;
 }
+
+section:last-child {
+ border-bottom: none;
+}
