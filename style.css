@@ -55,13 +55,14 @@ section:last-child {
   font-size: 20px;
   line-height: l;
   color: #9932CC;
+  font-family: "Amiri", roboto;
 }
 
 .name-title {
   font-size: 45px;
   line-height: 1.5;
   color: orchid;
-  font-family: "Hepta Slab";
+  font-family: "Hepta Slab", arial;
   text-shadow: 4px 4px 4px #aaa;
 }
 
