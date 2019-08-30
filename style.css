@@ -101,8 +101,13 @@ h4 {
 }
 
 .education {
-  font-weight: bold;
-  line-height: 1.5;
+  padding-bottom: 25px;
+  margin-bottom: 25px;
+  border-bottom: 1px solid pink;
+}
+
+.education:last-child {
+  border-bottom: none
 }
   
 .education-title-container {
