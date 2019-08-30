@@ -68,7 +68,7 @@ section:last-child {
 .employment {
   padding-bottom: 25px;
   margin-bottom: 25px;
-  border-bottom: 1px solid pink;
+  border-bottom: 1px solid deeppink;
 }
 
 .employment:last-child {
@@ -92,6 +92,7 @@ section:last-child {
 
 .employment-title {
   font-style: italic;
+  color: thistle;
 }
 
 h4 {
@@ -103,7 +104,7 @@ h4 {
 .education {
   padding-bottom: 25px;
   margin-bottom: 25px;
-  border-bottom: 1px solid pink;
+  border-bottom: 1px solid deeppink;
 }
 
 .education:last-child {
@@ -123,6 +124,7 @@ h4 {
 
 .education-title {
   font-style: italic;
+  color: thistle;
 }
 
 .interests-container {
