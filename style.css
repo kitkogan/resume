@@ -1,8 +1,16 @@
+html {
+  box-sizing: border-box;
+}
+
 body {
   font-family: 'Cormorant', sans-serif;
   line-height: 2;
   background: lightpink;
   color: darkgray;
+}
+
+img {
+  max-width: 50%;
 }
 
 p {
