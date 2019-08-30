@@ -13,9 +13,7 @@ body {
 }
 
 img {
-  max-width: 25%;
-  height: auto;
-  min-width: 25%;
+  max-width: 100%;
   height: auto;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
