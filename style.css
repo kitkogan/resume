@@ -48,8 +48,8 @@ section:last-child {
 .section-title {
   font-weight: bold;
   font-size: 20px;
-  line-height: l.5;
-  color: #2F4F4F;
+  line-height: l;
+  color: #708090;
 }
 
 .name-title {
