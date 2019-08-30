@@ -116,7 +116,7 @@ h4 {
 }
 
 .education:last-child {
-  border-bottom: none
+  border-bottom: none;
 }
 
 .education-title-container {
