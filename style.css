@@ -41,3 +41,10 @@ section {
 section:last-child {
  border-bottom: none;
 }
+
+.section-title {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
