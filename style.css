@@ -109,21 +109,6 @@ h4 {
 .education:last-child {
   border-bottom: none
 }
-  
-.education-title-container {
-  justify-content: space-between;
-  margin-bottom: 20px;
-  font-size: 18px;
-}
-
-.school {
-  font-weight: bold;
-  line-height: 1.5;
-}
-
-.education-title: {
-  font-style: italic;
-}
 
 .interests-container {
   justify-content: space-between;
