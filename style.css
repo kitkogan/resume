@@ -65,7 +65,6 @@ section:last-child {
 }
 
 .employment-title-container {
- display: flex;
  justify-content: space-between;
  margin-bottom: 20px;
  font-size: 18px;
