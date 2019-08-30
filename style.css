@@ -3,9 +3,12 @@ html {
 }
 
 body {
+  margin: 0;
+  padding: 0;
   font-family: 'Cormorant', sans-serif;
   line-height: 2;
-  background: lightpink;
+  background: url(https://lh3.googleusercontent.com/kpS3VWK9_lOcDugWtpWFBYxnQRrj_iK1a_d9MCJy3YBG4Sq4eB7bdt0qa-xmnA7kxb3_Aq4pE8Zi0w54TfrmYOqHLY34tTq8_G4N24H8hqd9sGFP1E_189XFXuI_tvTIWSQPLCtFRg=w2400) no-repeat;
+  background-size: cover;
   color: darkgray;
 }
 
