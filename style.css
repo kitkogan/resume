@@ -52,3 +52,9 @@ section:last-child {
   line-height: 1.5;
   color: orchid;
 }
+
+.employment {
+  padding-bottom: 25px;
+  margin-bottom: 25px;
+  border-bottom: 2px solid pink;
+}
