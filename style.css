@@ -35,7 +35,7 @@ section {
   grid-template-columns: 2fr 4fr;
   grid-gap: 25px;
   padding: 25px;
-  border-bottom: 1px solid pink;
+  border-bottom: 2px solid pink;
 }
 
 
@@ -58,9 +58,17 @@ section:last-child {
 .employment {
   padding-bottom: 25px;
   margin-bottom: 25px;
-  border-bottom: 2px solid pink;
+  border-bottom: 1px solid pink;
 }
 
 .employment:last-child {
   border-bottom: none;
+}
+
+.employment-title-container {
+ display: flex;
+ justify-content: space-between;
+ margin-bottom: 20px;
+ font-size: 18px;
+ 
 }
