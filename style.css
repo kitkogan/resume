@@ -3,7 +3,7 @@ html {
 }
 
 a {
-color: darkviolet;
+  color: darkviolet;
 }
 
 body {
@@ -67,7 +67,7 @@ section:last-child {
 }
 
 .skills-container {
- justify-content: space-between;
+  justify-content: space-between;
   margin-bottom: 20px;
   font-size: 18px;
 }
