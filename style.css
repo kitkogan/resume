@@ -61,10 +61,11 @@ section:last-child {
 }
 
 .employment:last-child {
-  border-bottom: none;
+ border-bottom: none;
 }
 
 .employment-title-container {
+ display: flex;
  justify-content: space-between;
  margin-bottom: 20px;
  font-size: 18px;
@@ -72,6 +73,12 @@ section:last-child {
 }
 
 .employer {
-  font-weight: bold;
-  line-height: 1.5;
+ font-weight: bold;
+ line-height: 1.5;
 }
+
+
+.date {
+ display: inline;
+}
+
