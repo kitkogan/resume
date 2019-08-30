@@ -121,6 +121,11 @@ h4 {
   line-height: 1.5;
 }
 
+
+.education-title: {
+  font-style: italic;
+}
+
 .interests-container {
   justify-content: space-between;
   margin-bottom: 20px;
