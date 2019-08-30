@@ -15,7 +15,7 @@ body {
 img {
   max-width: 100%;
   max-height: auto;
-  min-width: 25%
+  min-width: 50%
   min-height: auto;
   box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1);
 }
@@ -58,6 +58,12 @@ section:last-child {
   color: orchid;
 }
 
+.skills-container {
+ justify-content: space-between;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
 .employment {
   padding-bottom: 25px;
   margin-bottom: 25px;
@@ -79,7 +85,6 @@ section:last-child {
   line-height: 1.5;
 }
 
-
 .date {
   display: inline;
 }
@@ -92,4 +97,36 @@ h4 {
   line-height: 1;
   text-decoration: underline;
   color: mediumorchid;
+}
+
+.education {
+  font-weight: bold;
+  line-height: 1.5;
+}
+  
+.education-title-container {
+  justify-content: space-between;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.school {
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.education-title: {
+  font-style: italic;
+}
+
+.interests-container {
+  justify-content: space-between;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.references-container {
+  justify-content: space-between;
+  margin-bottom: 20px;
+  font-size: 18px;
 }
