@@ -50,7 +50,7 @@ section:last-child {
   font-weight: bold;
   font-size: 20px;
   line-height: l;
-  color: #708090;
+  color: #9932CC;
 }
 
 .name-title {
@@ -88,6 +88,7 @@ section:last-child {
 
 .date {
   display: inline;
+  color: rgb(186,85,211);
 }
 
 .employment-title {
