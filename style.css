@@ -58,6 +58,7 @@ section:last-child {
   line-height: 1.5;
   color: orchid;
   font-family: "Hepta Slab";
+  text-shadow: 4px 4px 4px #aaa;
 }
 
 .skills-container {
