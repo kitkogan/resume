@@ -34,7 +34,7 @@ p {
 
 section {
   display: grid;
-  grid-template-columns: 2fr 4fr;
+  grid-template-columns: 1fr 4fr;
   grid-gap: 25px;
   padding: 25px;
   border-bottom: 1px solid pink;
