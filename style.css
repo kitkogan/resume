@@ -72,3 +72,8 @@ section:last-child {
  font-size: 18px;
  
 }
+
+.employer {
+  font-weight: bold;
+  line-height: 1.8;
+}
