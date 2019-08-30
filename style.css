@@ -1,3 +1,10 @@
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 2;
+  background: blush pink;
+  color: dark gray;
+}
+
 p {
 color: purple;
 }
