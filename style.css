@@ -110,6 +110,12 @@ h4 {
   border-bottom: none
 }
 
+.education-title-container {
+  justify-content: space-between;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
 .interests-container {
   justify-content: space-between;
   margin-bottom: 20px;
