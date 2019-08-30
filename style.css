@@ -23,6 +23,7 @@ img {
 p {
   color: purple;
   justify-content: space-between;
+  font-style: none;
 }
 
 .container {
