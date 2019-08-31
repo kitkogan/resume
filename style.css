@@ -148,7 +148,7 @@ h4 {
 }
 
 footer {
-  position: fixed;
+  position: relative;
   margin-bottom: 0;
 }
 
