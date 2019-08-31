@@ -149,7 +149,7 @@ h4 {
 
 footer {
   position: fixed;
-  bottom:0;
+  margin-bottom: 0;
 }
 
 .copyright {
@@ -158,5 +158,5 @@ footer {
   line-height: 1.5;
   font-size: 0.7em;
   text-align: left;
-  bottom:0;
+  margin-bottom: 0;
 }
