@@ -153,11 +153,11 @@ footer {
 }
 
 .copyright {
-  position: fixed;
+  position: absolute;
   width: 100%;
   color: lightgray;
   line-height: 1.5;
   font-size: 0.7em;
-  text-align: left;
+  text-align: right;
   margin-bottom: 0;
 }
