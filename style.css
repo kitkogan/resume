@@ -148,16 +148,16 @@ h4 {
 }
 
 footer {
-  position: fixed;
+  position: absolute;
   margin-bottom: 0;
 }
 
 .copyright {
-  position: relative;
+  position: absolute;
   width: 100%;
   color: lightgray;
   line-height: 1.5;
   font-size: 0.7em;
-  text-align: right;
+  text-align: left;
   margin-bottom: 0;
 }
